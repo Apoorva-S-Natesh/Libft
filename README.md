@@ -5,9 +5,8 @@ Libft is an individual project at 42 that requires us to re-create some standard
 The goal is to create a library called libft.a from the source files so I can later use that library from other projects at 42.
 
 Compile
-run make or make libft to compile libft.a
-run make clean to delete tmp files after compile (only libft.a will be remain)
-run make fclean to delete all files after compile
-run make re to recompile all files
+      1. run make or make libft to compile libft.a 
+      2. run make clean to delete tmp files after compile (only libft.a will be remain)
+      3. run make fclean to delete all files after compile
+      4. run make re to recompile all files
 
-[Uploading libft.pdf…]()
